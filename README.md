@@ -27,7 +27,7 @@
 ## 3、微应用：angular9
 基于single-spa-angular（https://github.com/single-spa/single-spa-angular） 封装的angular9工程
 
-使用@angular-builders/custom-webpack:browser作为builder启动,监听端口4208
+使用@angular-builders/custom-webpack:browser作为builder启动,监听端口4208。在官网例子中对mount生命周期方法进行了扩展，实现了angular子应用和主应用的anction通信
 
 运行步骤：
 * cd angular9 
