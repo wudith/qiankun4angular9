@@ -3,6 +3,8 @@
 
 # 一个基于single-spa-angular 和qiankun 的angular9微前端测试例子
 
+![预览图片](https://raw.githubusercontent.com/wudith/qiankun4angular9/master/view.png)
+
 
 ## 1、主应用：main 
 基于qiankun (https://github.com/umijs/qiankun) 封装的主页面
